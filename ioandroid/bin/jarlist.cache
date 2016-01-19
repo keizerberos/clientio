@@ -1,0 +1,8 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1452911738167 36480 d78566b67be139b182eb701e4710b549af4ff79d C:\Docs\sio\engine\libs\json-org.jar
+1452911738167 36480 d78566b67be139b182eb701e4710b549af4ff79d C:\Docs\sio\ioandroid\libs\json-org.jar
+1452915993399 1184670 fde22d8d2ef6363324a3d79a1dd16c8645c25564 C:\Docs\sio\engine\libs\android-support-v4.jar
+1439346419264 1184670 fde22d8d2ef6363324a3d79a1dd16c8645c25564 C:\Docs\sio\appcompat_v7\libs\android-support-v4.jar
+1452916751503 1184670 fde22d8d2ef6363324a3d79a1dd16c8645c25564 C:\Docs\sio\ioandroid\libs\android-support-v4.jar
